@@ -1219,8 +1219,8 @@ img.alignright {
 }
 
 .mad-mobile-nav-btn::after {
-  font-family: Linearicons;
-  content: "\e92b";
+  
+  content: "☰";
 }
 
 .mad-mobile-nav-btn.mad-opened {
@@ -3216,8 +3216,8 @@ img.alignright {
   position: absolute;
   top: 12px;
   left: 0;
-  -webkit-mask: url(../yummi_svg_icons/arrow_right.svg) no-repeat;
-  mask: url(../yummi_svg_icons/arrow_right.svg) no-repeat;
+  -webkit-mask: url(https://velikorodnov.com/html/yummi/yummi_svg_icons/arrow_right.svg) no-repeat;
+  mask: url(https://velikorodnov.com/html/yummi/yummi_svg_icons/arrow_right.svg) no-repeat;
   background-color: #fff;
   width: 0.75rem;
   height: 0.625rem;
@@ -3607,8 +3607,8 @@ blockquote:not(.mad-blockquote--unstyled).mad-blockquote--style-2 cite,
   position: absolute;
   right: -1.5rem;
   top: 7px;
-  -webkit-mask: url(../yummi_svg_icons/arrow_right.svg) no-repeat;
-  mask: url(../yummi_svg_icons/arrow_right.svg) no-repeat;
+  -webkit-mask: url(https://velikorodnov.com/html/yummi/yummi_svg_icons/arrow_right.svg) no-repeat;
+  mask: url(https://velikorodnov.com/html/yummi/yummi_svg_icons/arrow_right.svg) no-repeat;
   background-color: #eb0029;
   width: 13px;
   height: 11px;
@@ -4360,8 +4360,8 @@ blockquote:not(.mad-blockquote--unstyled).mad-blockquote--style-2 cite,
 .mad-page-nav > .mad-nav-right:after {
   left: auto;
   right: 1rem;
-  -webkit-mask: url(../yummi_svg_icons/arrow_right.svg) no-repeat;
-  mask: url(../yummi_svg_icons/arrow_right.svg) no-repeat;
+  -webkit-mask: url(https://velikorodnov.com/html/yummi/yummi_svg_icons/arrow_right.svg) no-repeat;
+  mask: url(https://velikorodnov.com/html/yummi/yummi_svg_icons/arrow_right.svg) no-repeat;
 }
 
 .mad-page-nav > [class*="mad-nav-"]:hover:before {
@@ -6176,7 +6176,7 @@ table tr.total td {
   .mad-icon-box:after {
   content: "";
   position: absolute;
-  background: url(../images/box_arrow.png) no-repeat;
+  /* background: url(../images/box_arrow.png) no-repeat; */
   position: absolute;
   left: 100%;
   top: 50%;
